@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+/*Temp*/
+button, button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.font-rubik {
+    font-family: "Rubik", cursive;
+}
+
+.font-rale {
+    font-family: "Raleway", cursive;
+}
+
+.font-prompt {
+    font-family: "Prompt", cursive;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+.color-primary {
+    color: #000000;
+}
+
+.color-primary-bg {
+    background: #000000;
+}
+
+.color-second {
+    color: #292929;
+}
+
+.color-second-bg {
+    background: #292929;
+}
+
+.color-orange {
+    color: #ce8003;
+}
+
+.color-orange-bg {
+    background: #ce8003;
+}
+
+.color-red {
+    color: #ce0404;
+}
+
+.color-red-bg {
+    background: #ce0404;
+}
+
+.color-gray {
+    color: #737373;
+}
+
+.color-gray-bg {
+    background: #737373;
+}
+
+.color-low_red {
+    color: #a55959;
+}
+
+.color-low_red-bg {
+    background: #a55959;
+}
+
+#available .owl-carousel .item .product a {
+    overflow: hidden;
+}
+#available .owl-carousel .item .product img {
+    transition: transform 0.5s ease;
+}
+#available .owl-carousel .item .product img:hover {
+    transform: scale(1.1);
+}
+#available .owl-carousel .owl-nav button {
+    position: absolute;
+    top: 30%;
+    outline: none;
+}
+#available .owl-carousel .owl-nav button.owl-prev {
+    left: 0;
+}
+#available .owl-carousel .owl-nav button.owl-prev span,
+#available .owl-carousel .owl-nav button.owl-next span {
+    font-size: 35px;
+    color: #000000;
+    padding: 0 1rem;
+}
+#available .owl-carousel .owl-nav button.owl-prev span {
+    margin-left: -4rem;
+}
+#available .owl-carousel .owl-nav button.owl-next {
+    right: 0;
+}
+#available .owl-carousel .owl-nav button.owl-next span {
+    margin-right: -4rem;
+}
+
+#category .grid .grid-item {
+    margin-right: 1.2rem;
+    margin-top: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */
